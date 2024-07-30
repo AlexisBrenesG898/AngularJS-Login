@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 # WebAppPrimeNg
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.5.
+=======
+# Login
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.3.
+>>>>>>> b3faff7f83a823fa44e8933e7b51c3cf9f730999
 
 ## Development server
 

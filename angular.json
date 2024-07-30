@@ -3,7 +3,11 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
+<<<<<<< HEAD
     "WebApp-PrimeNg": {
+=======
+    "login": {
+>>>>>>> b3faff7f83a823fa44e8933e7b51c3cf9f730999
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
@@ -23,7 +27,11 @@
         "build": {
           "builder": "@angular-devkit/build-angular:application",
           "options": {
+<<<<<<< HEAD
             "outputPath": "dist/web-app-prime-ng",
+=======
+            "outputPath": "dist/login",
+>>>>>>> b3faff7f83a823fa44e8933e7b51c3cf9f730999
             "index": "src/index.html",
             "browser": "src/main.ts",
             "polyfills": [
@@ -37,10 +45,14 @@
               }
             ],
             "styles": [
+<<<<<<< HEAD
               "src/styles.css",
               "node_modules/primeng/resources/themes/lara-dark-green/theme.css",
               "node_modules/primeng/resources/primeng.min.css",
               "node_modules/primeflex/primeflex.css"
+=======
+              "src/styles.css"
+>>>>>>> b3faff7f83a823fa44e8933e7b51c3cf9f730999
             ],
             "scripts": []
           },
@@ -72,10 +84,17 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
+<<<<<<< HEAD
               "buildTarget": "WebApp-PrimeNg:build:production"
             },
             "development": {
               "buildTarget": "WebApp-PrimeNg:build:development"
+=======
+              "buildTarget": "login:build:production"
+            },
+            "development": {
+              "buildTarget": "login:build:development"
+>>>>>>> b3faff7f83a823fa44e8933e7b51c3cf9f730999
             }
           },
           "defaultConfiguration": "development"
@@ -107,6 +126,10 @@
     }
   },
   "cli": {
+<<<<<<< HEAD
     "analytics": "820a4bdc-b2b4-483e-946b-3055e079cf28"
+=======
+    "analytics": false
+>>>>>>> b3faff7f83a823fa44e8933e7b51c3cf9f730999
   }
 }

@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "web-app-prime-ng",
+=======
+  "name": "login",
+>>>>>>> b3faff7f83a823fa44e8933e7b51c3cf9f730999
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -18,16 +22,24 @@
     "@angular/platform-browser": "^18.0.0",
     "@angular/platform-browser-dynamic": "^18.0.0",
     "@angular/router": "^18.0.0",
+<<<<<<< HEAD
     "primeflex": "^3.3.1",
     "primeicons": "^7.0.0",
     "primeng": "^17.18.6",
+=======
+>>>>>>> b3faff7f83a823fa44e8933e7b51c3cf9f730999
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.14.3"
   },
   "devDependencies": {
+<<<<<<< HEAD
     "@angular-devkit/build-angular": "^18.0.5",
     "@angular/cli": "^18.0.5",
+=======
+    "@angular-devkit/build-angular": "^18.0.3",
+    "@angular/cli": "^18.0.3",
+>>>>>>> b3faff7f83a823fa44e8933e7b51c3cf9f730999
     "@angular/compiler-cli": "^18.0.0",
     "@types/jasmine": "~5.1.0",
     "jasmine-core": "~5.1.0",
