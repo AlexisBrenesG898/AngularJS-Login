@@ -7,6 +7,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.3.
 >>>>>>> b3faff7f83a823fa44e8933e7b51c3cf9f730999
+>>>>>>> This a whole project that has components related with: Login,Register and Home. Besides about the Guard, services and modules that are related to that. 
 
 ## Development server
 
